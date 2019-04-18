@@ -1,0 +1,22 @@
+
+#article-container {
+    display: flex;
+    flex-direction: row;
+}
+
+article {
+    display: flex;
+    flex-direction: row;
+    padding: 1em;
+    width: 30%;
+    height: auto;
+    margin: 2em;
+}
+
+#red {
+    border: solid 2px red;
+}
+
+#blue {
+    border: solid 2px blue;
+}
